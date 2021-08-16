@@ -1,3 +1,7 @@
 # Keep this file in sync with: https://github.com/kitconcept/buildout/edit/master/requirements.txt
 setuptools==42.0.2
+wheel==0.29.0
 zc.buildout==2.13.3
+cffi==1.14.3
+lxml
+jq
